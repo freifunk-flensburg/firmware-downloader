@@ -33,7 +33,8 @@ h2 {
     width: 100%;
     font-size: 1em;
     border: 0;
-    background: #dc0067;
+    background: #dc0067 url(../images/arrow-down.png) 97% 50% no-repeat;
+    cursor: pointer;
     color: #ffffff;
     padding: 0.5em 1em;
     display: block;
