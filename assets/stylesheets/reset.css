@@ -1,3 +1,4 @@
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -40,33 +41,4 @@ q:before, q:after {
 table {
     border-collapse: collapse;
     border-spacing: 0;
-}
-body {
-    font-size: 100%;
-    font-family: sans-serif;
-}
-header {
-    padding-top: 4em;
-    text-align: center;
-}
-h1 {
-    font-size: 2em;
-    text-transform: uppercase;
-}
-.download-form {
-    padding: 4em;
-    text-align: center;
-}
-.download-form button,
-.download-form select {
-    font-size: 1em;
-    border: 0;
-    background: #dc0067;
-    color: #ffffff;
-    padding: 1em;
-    display: inline-block;
-}
-.download-form button {
-    padding: 0 1em;
-    cursor: pointer;
 }
