@@ -23,7 +23,7 @@ h2 {
 }
 
 .download-form {
-    width: 33.33333%;
+    width: 40%;
     margin: 0 auto;
     padding: 4em;
     text-align: center;
@@ -42,8 +42,9 @@ h2 {
     -webkit-appearance: none;
 }
 
-.download-form button {
+.download-form .button {
     display: block;
+    text-decoration: none;
     font-size: 1em;
     border: 0;
     color: #ffffff;
@@ -54,6 +55,6 @@ h2 {
     margin-bottom: 1em;
 }
 
-.download-form button:hover {
+.download-form .button:hover {
     background: #ffb400;
 }
