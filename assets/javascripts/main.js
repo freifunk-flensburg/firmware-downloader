@@ -22,7 +22,11 @@ $(document).ready(function() {
 
         router = $('#download-form-router').val();
 
-        window.location.href = type+'/'+router+fileExtension+'.bin';
+        if(router === '-1') {
+            window.alert('Bitte wähle eine Router aus.');
+        } else {
+            window.location.href = type+'/'+router+fileExtension+'.bin';
+        }
 
         return false;
     });
