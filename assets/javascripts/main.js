@@ -1,6 +1,5 @@
 
 $(document).ready(function() {
-    $('#download-form')
     $('#download-form').submit(function( event ) {
         event.preventDefault();
 
