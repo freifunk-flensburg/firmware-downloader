@@ -55,5 +55,5 @@ h2 {
 }
 
 .download-form button:hover {
-    opacity: 0.9;
+    background: #fdbc41;
 }
