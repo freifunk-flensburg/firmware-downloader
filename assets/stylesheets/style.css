@@ -58,3 +58,21 @@ h2 {
 .download-form .button:hover {
     background: #ffb400;
 }
+
+@media (max-width: 60em) {
+
+    .download-form {
+        padding: 2em;
+        width: 70%;
+    }
+
+}
+
+@media (max-width: 40em) {
+
+    .download-form {
+        padding: 1em;
+        width: 90%;
+    }
+
+}
