@@ -1,0 +1,50 @@
+
+body {
+    line-height: 1.5;
+    font-size: 100%;
+    font-family: sans-serif;
+    color: #161616;
+}
+
+header {
+    padding-top: 4em;
+    text-align: center;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 2em;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+.download-form {
+    padding: 4em;
+    text-align: center;
+}
+
+.download-form select {
+    font-size: 1em;
+    border: 0;
+    background: #dc0067;
+    color: #ffffff;
+    padding: 1em;
+    display: inline-block;
+}
+
+.download-form button {
+    display: inline-block;
+    font-size: 1em;
+    border: 0;
+    color: #ffffff;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    background: #2d2d2d;
+}
+
+.download-form button:hover {
+    opacity: 0.9;
+}
