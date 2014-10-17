@@ -65,6 +65,10 @@
             <button class="button">Herunterladen</button>
             <a class="button" href="files/all_images.zip">Alle als ZIP herunterladen</a>
         </form>
+        
+        <p>Software unter <a href="http://de.wikipedia.org/wiki/GNU_General_Public_License">GPL Lizenz</a></p>
+        <br>
+        <br>
         <script src="http://code.jquery.com/jquery-1.11.0.min.js" type="text/javascript"></script>
         <script src="assets/javascripts/main.js" type="text/javascript"></script>
     </body>

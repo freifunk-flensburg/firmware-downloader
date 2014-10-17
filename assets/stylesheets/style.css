@@ -68,6 +68,19 @@ h2 {
     }
 
 }
+p { 
+margin: auto;
+text-align: center;
+}
+p a{
+    color: #000;
+    text-decoration: none;
+}
+p a:hover {
+    color: #fff;
+    background-color: #dc0067;
+    text-decoration: none;
+}
 
 @media (max-width: 40em) {
 
